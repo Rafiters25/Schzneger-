@@ -1,0 +1,11 @@
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\bin\Release\Hu3Series.exe.config
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\bin\Release\Hu3Series.exe
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\bin\Release\Hu3Series.pdb
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\bin\Release\EloBuddy.dll
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\bin\Release\EloBuddy.SDK.dll
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\bin\Release\SharpDX.dll
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\obj\Release\Hu3Series.exe
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\obj\Release\Hu3Series.pdb
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Hu3Series\obj\Release\Hu3Series.csprojResolveAssemblyReference.cache

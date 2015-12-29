@@ -1,0 +1,3 @@
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Kickass-Series\bin\Debug\Hu3Series.exe.config
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Kickass-Series\obj\Debug\Hu3Series.exe
+C:\Users\Mario\Documents\GitHub\EB-AIO\Hu3Series\Kickass-Series\obj\Debug\Hu3Series.pdb
