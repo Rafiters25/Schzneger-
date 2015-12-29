@@ -1,0 +1,11 @@
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\bin\Debug\Schnezeger.exe.config
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\bin\Debug\Schnezeger.exe
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\bin\Debug\Schnezeger.pdb
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\bin\Debug\EloBuddy.dll
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\bin\Debug\SharpDX.dll
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\obj\Debug\Schnezeger.csprojResolveAssemblyReference.cache
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\obj\Debug\Schnezeger.exe
+C:\Users\Toboiola\Documents\GitHub\Schzneger-\Schnezeger\Schnezeger\obj\Debug\Schnezeger.pdb
