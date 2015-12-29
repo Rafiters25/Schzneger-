@@ -28,3 +28,13 @@ C:\Users\Mario\Documents\GitHub\Kickass\KickassSeries\KickassSeries\bin\Debug\El
 C:\Users\Mario\Documents\GitHub\Kickass\KickassSeries\KickassSeries\bin\Debug\SharpDX.Direct3D9.dll
 C:\Users\Mario\Documents\GitHub\Kickass\KickassSeries\KickassSeries\bin\Debug\SharpDX.dll
 C:\Users\Mario\Documents\GitHub\Kickass\KickassSeries\KickassSeries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\obj\Debug\KickassSeries.exe
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\obj\Debug\KickassSeries.pdb
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\bin\Debug\KickassSeries.exe
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\bin\Debug\KickassSeries.pdb
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\bin\Debug\EloBuddy.dll
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\bin\Debug\SharpDX.dll
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mario\Documents\GitHub\Schzneger-\KickassSeries\KickassSeries\obj\Debug\KickassSeries.csprojResolveAssemblyReference.cache

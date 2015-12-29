@@ -155,7 +155,7 @@ namespace KickassSeries
 
                         break;
                     case Champion.Karthus:
-                        Champions.Karthus.Karthus.Initialize();
+                        //Champions.Karthus.Karthus.Initialize();
                         break;
                     case Champion.Kassadin:
 
@@ -329,7 +329,7 @@ namespace KickassSeries
                         Champions.Thresh.Thresh.Initialize();
                         break;
                     case Champion.Tristana:
-                        Champions.Tristana.Tristana.Initialize();
+                        //Champions.Tristana.Tristana.Initialize();
                         break;
                     case Champion.Trundle:
 
@@ -342,7 +342,7 @@ namespace KickassSeries
                         break;
                     case Champion.Twitch:
 
-Champions.Twitch.Twitch.Initialize();
+                        //Champions.Twitch.Twitch.Initialize();
                         break;
                     case Champion.Udyr:
 
